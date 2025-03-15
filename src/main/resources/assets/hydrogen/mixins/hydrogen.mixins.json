@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.sparkpixel.hydrogen.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "hydrogen.mixins.refmap.json",
+  "mixins": [
+    "MixinLoadingOverlay"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8.5"
+}
